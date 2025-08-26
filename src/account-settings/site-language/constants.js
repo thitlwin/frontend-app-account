@@ -5,6 +5,11 @@ const siteLanguageList = [
     released: true,
   },
   {
+    code: 'my-MM',
+    name: 'Myanmar (Burmese)',
+    released: true,
+  },
+  {
     code: 'ar',
     name: 'العربية',
     released: true,
