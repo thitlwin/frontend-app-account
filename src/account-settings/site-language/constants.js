@@ -8,7 +8,7 @@ const siteLanguageList = [
     code: 'my',
     name: 'Myanmar(Burmese)',
     released: true,
-  }
+  },
 ];
 
 export default siteLanguageList;
