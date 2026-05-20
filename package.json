@@ -29,7 +29,7 @@
     "extends @edx/browserslist-config"
   ],
   "dependencies": {
-    "@edx/brand": "npm:@openedx/brand-openedx@^1.2.2",
+    "@edx/brand": "github:thitlwin/brand-openedx#mylango.release.v2.0.5",
     "@edx/frontend-component-footer": "^14.6.0",
     "@edx/frontend-component-header": "^6.2.0",
     "@edx/frontend-platform": "^8.4.0",
@@ -90,5 +90,6 @@
     "@testing-library/react": "14.3.1",
     "react-test-renderer": "^18.3.1",
     "redux-mock-store": "1.5.5"
-  }
+  },
+  "packageManager": "pnpm@10.19.0+sha512.c9fc7236e92adf5c8af42fd5bf1612df99c2ceb62f27047032f4720b33f8eacdde311865e91c411f2774f618d82f320808ecb51718bfa82c060c4ba7c76a32b8"
 }
